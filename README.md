@@ -1,3 +1,6 @@
+>[!CAUTION]
+>Listed below are not instructions for using the app, this is the default Expo App informational screen meant to be read by the developer during developement. Once the project is complete, installation instructions will be provided.
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
